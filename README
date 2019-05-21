@@ -1,0 +1,8 @@
+功能介绍
+    文字翻译
+        根据访问IP地址判断所在区域语言，通过googleSDK将文字翻译为相应语言
+
+    文字转语言
+        通过googleSDK，将文字转为语音，获取的语言内容通过base64转码为字符串返回。
+
+google SDK安装与设置，参考https://cloud.google.com/sdk/docs/initializing
